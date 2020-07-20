@@ -1,3 +1,8 @@
+---
+title: "Sample post"
+date: 2020-07-01
+---
+
 This pull request looks great so far. ✨ You've just edited the _config.yml file! 
 
 ```
